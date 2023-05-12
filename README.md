@@ -21,6 +21,7 @@ Setup a MySQL Database with the configuration below
 Run the commands in terminal from the directory where manage.py is located
 
 python manage.py makemigrations
+
 python manage.py migrate
 
 You can view the application in browser by typing in
